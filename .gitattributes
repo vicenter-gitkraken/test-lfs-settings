@@ -1,0 +1,15 @@
+Bigfoot/Rpt/* filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/MapFiles/*.[eE][iI][cC] filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/MapFiles/*.[rR][pP][tT] filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/MapFiles/*.[bB][aA][kK] filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/MapFiles/*[eE][iI][pP] filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/MapFiles/*[iI][iI][pP] filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/SRC/BussObj/* filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/SRC/Forms/* filter=lfs diff=lfs merge=lfs -text lockable
+Bigfoot/DistDBs/*.[nN][eE][wW] filter=lfs diff=lfs merge=lfs -text lockable
+*.[mM][dD][fF] filter=lfs diff=lfs merge=lfs -text lockable
+*.[mM][dD][wW] filter=lfs diff=lfs merge=lfs -text lockable
+*.{jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text lockable
+*.[aA][vV][iI] filter=lfs diff=lfs merge=lfs -text lockable
+*.[hH][lL][pP] filter=lfs diff=lfs merge=lfs -text lockable
+*.[gG][iI][fF] filter=lfs diff=lfs merge=lfs -text lockable
